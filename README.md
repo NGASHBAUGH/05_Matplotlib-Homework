@@ -1,4 +1,4 @@
-# Matplotlib Homework - The Power of Plots
+# Matplotlib Challenge - completed for UC Davis's data analytics and visualization Bootcamp
 
 ## Background
 
