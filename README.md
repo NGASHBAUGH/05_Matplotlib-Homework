@@ -11,7 +11,13 @@ Next Matplotlib was used to visulize different parts of the data
 ![Pie](https://github.com/NGASHBAUGH/Python-Matplotlib/blob/master/Images/My-Images/Pie%20Chart.PNG)
 ![corr](https://github.com/NGASHBAUGH/Python-Matplotlib/blob/master/Images/My-Images/Corrilation.PNG?raw=true)
 
-Finally some detailed information about the data 
+
+
+
+
+Finally some detailed information about the data:
+
+
 ![Detailedinfo](https://github.com/NGASHBAUGH/Python-Matplotlib/blob/master/Images/My-Images/Quartile.PNG)
 
 
